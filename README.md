@@ -12,7 +12,7 @@ The available datasets are those present in the "Datasets" folder
 
 The hyperparamter_search.py file was used to run each experiment in the paper. The results for the experiments run this way are in the "Experiments" folder.
 ## Folders
-The "Datasets" folder contains all of the datasets used in the paper. Each dataset consists of json fails with the human scanpaths and the trials' parameters. The stimuli are not present in this repository.
+The "Datasets" folder contains all of the datasets used in the paper. Each dataset consists of json files with the human scanpaths and the trials' parameters. The stimuli are not present in this repository, but in each folder there's a link from where they can be downloaded.
 
 The "Model" folder contains the code for the elm model and each of its components.
 
