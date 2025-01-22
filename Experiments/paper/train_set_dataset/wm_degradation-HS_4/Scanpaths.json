@@ -1,0 +1,2171 @@
+{
+    "cmp_africansavanna_003_wildanimals_003.jpg": {
+        "subject": "nnIBS Model",
+        "dataset": "HSUBANOTT",
+        "image_height": 24,
+        "image_width": 32,
+        "receptive_height": 1,
+        "receptive_width": 1,
+        "target_found": true,
+        "target_bbox": [
+            11,
+            19,
+            13,
+            20
+        ],
+        "X": [
+            16,
+            19
+        ],
+        "Y": [
+            12,
+            11
+        ],
+        "elm_info_gained": [
+            0.6827233080941685,
+            3.9517329936968193
+        ],
+        "searched_object_indexes": [
+            0
+        ],
+        "memory_set": [
+            "bird246.png"
+        ],
+        "target_object": "TBD",
+        "max_fixations": 41
+    },
+    "cmp_building_007_person_004.jpg": {
+        "subject": "nnIBS Model",
+        "dataset": "HSUBANOTT",
+        "image_height": 24,
+        "image_width": 32,
+        "receptive_height": 1,
+        "receptive_width": 1,
+        "target_found": true,
+        "target_bbox": [
+            17,
+            6,
+            18,
+            7
+        ],
+        "X": [
+            16,
+            14,
+            22,
+            11,
+            11,
+            19,
+            25,
+            22,
+            25,
+            22,
+            23,
+            29,
+            25,
+            22,
+            16,
+            11,
+            15,
+            19,
+            6,
+            24,
+            4,
+            23,
+            29,
+            25,
+            22,
+            6
+        ],
+        "Y": [
+            12,
+            6,
+            11,
+            9,
+            14,
+            4,
+            3,
+            13,
+            15,
+            11,
+            12,
+            12,
+            16,
+            12,
+            9,
+            9,
+            5,
+            3,
+            4,
+            6,
+            12,
+            11,
+            12,
+            15,
+            12,
+            17
+        ],
+        "elm_info_gained": [
+            0.22434188952089149,
+            0.3300387924921678,
+            0.14017610588334348,
+            0.1066800543206837,
+            0.09423817493268312,
+            0.08777360017557857,
+            0.07670380559849502,
+            0.11485793818010788,
+            0.1939515490270525,
+            0.10152005506372395,
+            0.13377364301295766,
+            0.10577501431215053,
+            0.0888868939283174,
+            0.06753383200027642,
+            0.08349577582228877,
+            0.07563931120877569,
+            0.11964924796138057,
+            0.06639315980100477,
+            0.0679514929688759,
+            0.0658451763282425,
+            0.07785349456478152,
+            0.11606898989007648,
+            0.10119655351708685,
+            0.08973865131488329,
+            0.06646730982335303,
+            0.863699942946632
+        ],
+        "searched_object_indexes": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "memory_set": [
+            "person18565.png"
+        ],
+        "target_object": "TBD",
+        "max_fixations": 41
+    },
+    "cmp_building_015_person_008.jpg": {
+        "subject": "nnIBS Model",
+        "dataset": "HSUBANOTT",
+        "image_height": 24,
+        "image_width": 32,
+        "receptive_height": 1,
+        "receptive_width": 1,
+        "target_found": true,
+        "target_bbox": [
+            11,
+            4,
+            13,
+            5
+        ],
+        "X": [
+            16,
+            14,
+            19,
+            9,
+            5
+        ],
+        "Y": [
+            12,
+            14,
+            11,
+            12,
+            12
+        ],
+        "elm_info_gained": [
+            0.3397338399153933,
+            0.26492997352945735,
+            0.18581092022845566,
+            0.3983567433992935,
+            3.050932568492211
+        ],
+        "searched_object_indexes": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "memory_set": [
+            "person177.png"
+        ],
+        "target_object": "TBD",
+        "max_fixations": 41
+    },
+    "cmp_building_022_cat_009.jpg": {
+        "subject": "nnIBS Model",
+        "dataset": "HSUBANOTT",
+        "image_height": 24,
+        "image_width": 32,
+        "receptive_height": 1,
+        "receptive_width": 1,
+        "target_found": true,
+        "target_bbox": [
+            7,
+            23,
+            8,
+            25
+        ],
+        "X": [
+            16,
+            22,
+            19,
+            24,
+            24
+        ],
+        "Y": [
+            12,
+            14,
+            12,
+            9,
+            8
+        ],
+        "elm_info_gained": [
+            0.6023946212633945,
+            0.2688032649660303,
+            0.42513900736295385,
+            1.006155108494565,
+            4.338356896885883
+        ],
+        "searched_object_indexes": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "memory_set": [
+            "cat1633.png"
+        ],
+        "target_object": "TBD",
+        "max_fixations": 41
+    },
+    "cmp_building_033_cat_012.jpg": {
+        "subject": "nnIBS Model",
+        "dataset": "HSUBANOTT",
+        "image_height": 24,
+        "image_width": 32,
+        "receptive_height": 1,
+        "receptive_width": 1,
+        "target_found": true,
+        "target_bbox": [
+            15,
+            25,
+            17,
+            27
+        ],
+        "X": [
+            16,
+            20,
+            25
+        ],
+        "Y": [
+            12,
+            12,
+            16
+        ],
+        "elm_info_gained": [
+            0.3204230380110225,
+            0.23693402825489024,
+            3.368166459250909
+        ],
+        "searched_object_indexes": [
+            0,
+            0
+        ],
+        "memory_set": [
+            "cat1919.png"
+        ],
+        "target_object": "TBD",
+        "max_fixations": 41
+    },
+    "cmp_building_039_dog_007.jpg": {
+        "subject": "nnIBS Model",
+        "dataset": "HSUBANOTT",
+        "image_height": 24,
+        "image_width": 32,
+        "receptive_height": 1,
+        "receptive_width": 1,
+        "target_found": true,
+        "target_bbox": [
+            0,
+            26,
+            2,
+            27
+        ],
+        "X": [
+            16,
+            6,
+            15,
+            13,
+            21,
+            9,
+            12,
+            11,
+            26,
+            26
+        ],
+        "Y": [
+            12,
+            9,
+            6,
+            16,
+            9,
+            5,
+            10,
+            18,
+            9,
+            2
+        ],
+        "elm_info_gained": [
+            0.22575049259401678,
+            0.1494991650812405,
+            0.12860294637296749,
+            0.10683534178963286,
+            0.09498837294532278,
+            0.08705104499806778,
+            0.08072517425566557,
+            0.07459522131093543,
+            0.07904192765085366,
+            2.6215796340291417
+        ],
+        "searched_object_indexes": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "memory_set": [
+            "dog519.png"
+        ],
+        "target_object": "TBD",
+        "max_fixations": 41
+    },
+    "cmp_building_046_sheep_001.jpg": {
+        "subject": "nnIBS Model",
+        "dataset": "HSUBANOTT",
+        "image_height": 24,
+        "image_width": 32,
+        "receptive_height": 1,
+        "receptive_width": 1,
+        "target_found": true,
+        "target_bbox": [
+            13,
+            7,
+            15,
+            8
+        ],
+        "X": [
+            16,
+            17,
+            8
+        ],
+        "Y": [
+            12,
+            6,
+            14
+        ],
+        "elm_info_gained": [
+            0.2916673234782653,
+            0.17902811241383926,
+            0.9289260142413103
+        ],
+        "searched_object_indexes": [
+            0,
+            0
+        ],
+        "memory_set": [
+            "sheep1548.png"
+        ],
+        "target_object": "TBD",
+        "max_fixations": 41
+    },
+    "cmp_building_054_bird_010.jpg": {
+        "subject": "nnIBS Model",
+        "dataset": "HSUBANOTT",
+        "image_height": 24,
+        "image_width": 32,
+        "receptive_height": 1,
+        "receptive_width": 1,
+        "target_found": true,
+        "target_bbox": [
+            22,
+            25,
+            23,
+            27
+        ],
+        "X": [
+            16,
+            19,
+            13,
+            7,
+            18,
+            24,
+            17,
+            11,
+            26,
+            28,
+            25
+        ],
+        "Y": [
+            12,
+            10,
+            9,
+            15,
+            6,
+            8,
+            15,
+            18,
+            15,
+            17,
+            22
+        ],
+        "elm_info_gained": [
+            0.18203071117376832,
+            0.1489314880979981,
+            0.11433399335001153,
+            0.09941563631477952,
+            0.08734827933208451,
+            0.08135059631244383,
+            0.08602954977581137,
+            0.07594269406176696,
+            0.08452366489930932,
+            0.07444217799889227,
+            0.4667080365734775
+        ],
+        "searched_object_indexes": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "memory_set": [
+            "bird1519.png"
+        ],
+        "target_object": "TBD",
+        "max_fixations": 41
+    },
+    "cmp_building_060_dog_017.jpg": {
+        "subject": "nnIBS Model",
+        "dataset": "HSUBANOTT",
+        "image_height": 24,
+        "image_width": 32,
+        "receptive_height": 1,
+        "receptive_width": 1,
+        "target_found": true,
+        "target_bbox": [
+            18,
+            26,
+            19,
+            28
+        ],
+        "X": [
+            16,
+            20,
+            20,
+            12,
+            11,
+            25,
+            6,
+            25,
+            26
+        ],
+        "Y": [
+            12,
+            6,
+            12,
+            9,
+            14,
+            8,
+            11,
+            14,
+            18
+        ],
+        "elm_info_gained": [
+            0.19063158601245295,
+            0.1337616591553304,
+            0.11762274174237766,
+            0.10609661241190899,
+            0.09479674155013033,
+            0.08740312263810439,
+            0.08090276271156058,
+            0.2338072346862571,
+            3.3580086580142843
+        ],
+        "searched_object_indexes": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "memory_set": [
+            "dog1200.png"
+        ],
+        "target_object": "TBD",
+        "max_fixations": 41
+    },
+    "cmp_cakestand_003_food_002.jpg": {
+        "subject": "nnIBS Model",
+        "dataset": "HSUBANOTT",
+        "image_height": 24,
+        "image_width": 32,
+        "receptive_height": 1,
+        "receptive_width": 1,
+        "target_found": true,
+        "target_bbox": [
+            18,
+            9,
+            19,
+            11
+        ],
+        "X": [
+            16,
+            12,
+            10
+        ],
+        "Y": [
+            12,
+            13,
+            18
+        ],
+        "elm_info_gained": [
+            0.568626003010749,
+            0.346523876475009,
+            3.493736292465062
+        ],
+        "searched_object_indexes": [
+            0,
+            0
+        ],
+        "memory_set": [
+            "sandwich701.png"
+        ],
+        "target_object": "TBD",
+        "max_fixations": 41
+    },
+    "cmp_field_007_farmanimals_007.jpg": {
+        "subject": "nnIBS Model",
+        "dataset": "HSUBANOTT",
+        "image_height": 24,
+        "image_width": 32,
+        "receptive_height": 1,
+        "receptive_width": 1,
+        "target_found": true,
+        "target_bbox": [
+            19,
+            16,
+            21,
+            18
+        ],
+        "X": [
+            16,
+            18,
+            26,
+            11,
+            17
+        ],
+        "Y": [
+            12,
+            11,
+            10,
+            13,
+            19
+        ],
+        "elm_info_gained": [
+            0.8169482681015011,
+            0.30760374791741785,
+            0.19785090291720833,
+            0.17478855345134764,
+            2.257361611114196
+        ],
+        "searched_object_indexes": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "memory_set": [
+            "horse594.png"
+        ],
+        "target_object": "TBD",
+        "max_fixations": 41
+    },
+    "cmp_jungle_007_bird_007.jpg": {
+        "subject": "nnIBS Model",
+        "dataset": "HSUBANOTT",
+        "image_height": 24,
+        "image_width": 32,
+        "receptive_height": 1,
+        "receptive_width": 1,
+        "target_found": true,
+        "target_bbox": [
+            5,
+            22,
+            7,
+            25
+        ],
+        "X": [
+            16,
+            15,
+            14,
+            12,
+            15,
+            15,
+            12,
+            5,
+            25,
+            24
+        ],
+        "Y": [
+            12,
+            15,
+            10,
+            11,
+            10,
+            15,
+            11,
+            8,
+            11,
+            6
+        ],
+        "elm_info_gained": [
+            0.28872438263201344,
+            0.31084011422956187,
+            0.3699047311554349,
+            0.18597891088377805,
+            0.49356396810059167,
+            0.2749629553499927,
+            0.09908130079165399,
+            0.08280085055875723,
+            0.08252836000372012,
+            1.7172553073476207
+        ],
+        "searched_object_indexes": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "memory_set": [
+            "bird332.png"
+        ],
+        "target_object": "TBD",
+        "max_fixations": 41
+    },
+    "cmp_mountain_004_sheep_001.jpg": {
+        "subject": "nnIBS Model",
+        "dataset": "HSUBANOTT",
+        "image_height": 24,
+        "image_width": 32,
+        "receptive_height": 1,
+        "receptive_width": 1,
+        "target_found": true,
+        "target_bbox": [
+            7,
+            2,
+            9,
+            4
+        ],
+        "X": [
+            16,
+            15,
+            22,
+            15,
+            11,
+            12,
+            16,
+            22,
+            9,
+            3
+        ],
+        "Y": [
+            12,
+            16,
+            11,
+            10,
+            6,
+            5,
+            9,
+            10,
+            12,
+            9
+        ],
+        "elm_info_gained": [
+            0.7784242393341834,
+            0.23906803275014132,
+            0.21862020567475351,
+            0.14326585827418833,
+            0.10755544948065968,
+            0.10978378144828253,
+            0.10898476301454624,
+            0.09115369837941893,
+            0.13317821275543631,
+            1.750994733705479
+        ],
+        "searched_object_indexes": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "memory_set": [
+            "sheep796.png"
+        ],
+        "target_object": "TBD",
+        "max_fixations": 41
+    },
+    "cmp_mountain_019_sheep_007.jpg": {
+        "subject": "nnIBS Model",
+        "dataset": "HSUBANOTT",
+        "image_height": 24,
+        "image_width": 32,
+        "receptive_height": 1,
+        "receptive_width": 1,
+        "target_found": true,
+        "target_bbox": [
+            17,
+            4,
+            19,
+            6
+        ],
+        "X": [
+            16,
+            15,
+            6,
+            13,
+            23,
+            20,
+            22,
+            17,
+            7,
+            10,
+            27,
+            17,
+            28,
+            14,
+            5
+        ],
+        "Y": [
+            12,
+            8,
+            12,
+            13,
+            13,
+            18,
+            7,
+            9,
+            6,
+            2,
+            10,
+            4,
+            5,
+            17,
+            18
+        ],
+        "elm_info_gained": [
+            0.19702439283945447,
+            0.15167471706934177,
+            0.12271319983741316,
+            0.10664168728384785,
+            0.0951219150822925,
+            0.08890423619646518,
+            0.08641466957313548,
+            0.07743694526243955,
+            0.0869414152294169,
+            0.07075551064531038,
+            0.07002870864241664,
+            0.06880480525320606,
+            0.06806002494270369,
+            0.07052965540688473,
+            1.0327172515468597
+        ],
+        "searched_object_indexes": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "memory_set": [
+            "sheep119.png"
+        ],
+        "target_object": "TBD",
+        "max_fixations": 41
+    },
+    "cmp_office_001_pottedplant_001.jpg": {
+        "subject": "nnIBS Model",
+        "dataset": "HSUBANOTT",
+        "image_height": 24,
+        "image_width": 32,
+        "receptive_height": 1,
+        "receptive_width": 1,
+        "target_found": true,
+        "target_bbox": [
+            20,
+            29,
+            22,
+            31
+        ],
+        "X": [
+            16,
+            13,
+            13,
+            10,
+            5,
+            22,
+            17,
+            14,
+            12,
+            14,
+            9,
+            3,
+            5,
+            25,
+            29
+        ],
+        "Y": [
+            12,
+            8,
+            5,
+            11,
+            8,
+            12,
+            9,
+            5,
+            5,
+            13,
+            17,
+            19,
+            11,
+            16,
+            20
+        ],
+        "elm_info_gained": [
+            0.5101377306132009,
+            0.21602580334392116,
+            0.17772965931232673,
+            0.17325006185493727,
+            0.12421326710674632,
+            0.11071495606072962,
+            0.09616351079742727,
+            0.10342910512019066,
+            0.07982497061985964,
+            0.1023231801791165,
+            0.07718235521298707,
+            0.07002873966152476,
+            0.06854503982113752,
+            0.11012757486945632,
+            2.6853876418348746
+        ],
+        "searched_object_indexes": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "memory_set": [
+            "potted plant870.png"
+        ],
+        "target_object": "TBD",
+        "max_fixations": 41
+    },
+    "cmp_seabottom_001_bottle_001.jpg": {
+        "subject": "nnIBS Model",
+        "dataset": "HSUBANOTT",
+        "image_height": 24,
+        "image_width": 32,
+        "receptive_height": 1,
+        "receptive_width": 1,
+        "target_found": true,
+        "target_bbox": [
+            9,
+            12,
+            11,
+            13
+        ],
+        "X": [
+            16,
+            13
+        ],
+        "Y": [
+            12,
+            10
+        ],
+        "elm_info_gained": [
+            0.26300578474846437,
+            2.640363360890439
+        ],
+        "searched_object_indexes": [
+            0
+        ],
+        "memory_set": [
+            "bottle1337.png"
+        ],
+        "target_object": "TBD",
+        "max_fixations": 41
+    },
+    "cmp_shelves_016_cup_001.jpg": {
+        "subject": "nnIBS Model",
+        "dataset": "HSUBANOTT",
+        "image_height": 24,
+        "image_width": 32,
+        "receptive_height": 1,
+        "receptive_width": 1,
+        "target_found": true,
+        "target_bbox": [
+            4,
+            22,
+            5,
+            23
+        ],
+        "X": [
+            16,
+            10,
+            21,
+            23
+        ],
+        "Y": [
+            12,
+            10,
+            8,
+            5
+        ],
+        "elm_info_gained": [
+            0.315335755222802,
+            0.23569412539652734,
+            0.36879105927130135,
+            3.325063841242904
+        ],
+        "searched_object_indexes": [
+            0,
+            0,
+            0
+        ],
+        "memory_set": [
+            "cup436.png"
+        ],
+        "target_object": "TBD",
+        "max_fixations": 41
+    },
+    "cmp_shelves_018_remote_002.jpg": {
+        "subject": "nnIBS Model",
+        "dataset": "HSUBANOTT",
+        "image_height": 24,
+        "image_width": 32,
+        "receptive_height": 1,
+        "receptive_width": 1,
+        "target_found": true,
+        "target_bbox": [
+            7,
+            27,
+            9,
+            28
+        ],
+        "X": [
+            16,
+            8,
+            13,
+            23,
+            12,
+            25,
+            26,
+            27
+        ],
+        "Y": [
+            12,
+            12,
+            13,
+            15,
+            9,
+            12,
+            8,
+            8
+        ],
+        "elm_info_gained": [
+            0.24719975869198743,
+            0.142854712096795,
+            0.1163125112829989,
+            0.10357495483329086,
+            0.14109087890826558,
+            0.3140015227419841,
+            2.6957430473664994,
+            3.951838374008508
+        ],
+        "searched_object_indexes": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "memory_set": [
+            "remote24.png"
+        ],
+        "target_object": "TBD",
+        "max_fixations": 41
+    },
+    "cmp_shelves_030_book_003.jpg": {
+        "subject": "nnIBS Model",
+        "dataset": "HSUBANOTT",
+        "image_height": 24,
+        "image_width": 32,
+        "receptive_height": 1,
+        "receptive_width": 1,
+        "target_found": true,
+        "target_bbox": [
+            0,
+            19,
+            0,
+            21
+        ],
+        "X": [
+            16,
+            12,
+            21,
+            13,
+            9,
+            21,
+            18,
+            8,
+            4,
+            9,
+            9,
+            3,
+            26,
+            22,
+            22,
+            22,
+            22,
+            18,
+            22,
+            19,
+            19,
+            19
+        ],
+        "Y": [
+            12,
+            8,
+            19,
+            13,
+            15,
+            11,
+            15,
+            9,
+            11,
+            16,
+            17,
+            4,
+            17,
+            20,
+            18,
+            13,
+            11,
+            5,
+            2,
+            1,
+            1,
+            0
+        ],
+        "elm_info_gained": [
+            0.34844836489021314,
+            0.24020509209640697,
+            0.17116933061420664,
+            0.16471001211242717,
+            0.11601417982285575,
+            0.10849214162766407,
+            0.08903473260442532,
+            0.08052310221056255,
+            0.08994925855472016,
+            0.11483679904519951,
+            0.07066913268642436,
+            0.06935537202861035,
+            0.0882806543634361,
+            0.10379856871377396,
+            0.07642445083645064,
+            0.09352607895561368,
+            0.07007494628060598,
+            0.07844027417059564,
+            0.08118388926401829,
+            0.6238428149098558,
+            2.6761444846755813,
+            3.5187701958195663
+        ],
+        "searched_object_indexes": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "memory_set": [
+            "book171.png"
+        ],
+        "target_object": "TBD",
+        "max_fixations": 41
+    },
+    "cmp_shelves_035_book_008.jpg": {
+        "subject": "nnIBS Model",
+        "dataset": "HSUBANOTT",
+        "image_height": 24,
+        "image_width": 32,
+        "receptive_height": 1,
+        "receptive_width": 1,
+        "target_found": true,
+        "target_bbox": [
+            17,
+            4,
+            17,
+            6
+        ],
+        "X": [
+            16,
+            22,
+            25,
+            19,
+            9,
+            11,
+            12,
+            6
+        ],
+        "Y": [
+            12,
+            4,
+            8,
+            9,
+            12,
+            17,
+            4,
+            17
+        ],
+        "elm_info_gained": [
+            0.2594811712882472,
+            0.16194659357647256,
+            0.13867859460409623,
+            0.11987217353696225,
+            0.11328517182020809,
+            0.08730281143159606,
+            0.0881586331251711,
+            0.23013446315973143
+        ],
+        "searched_object_indexes": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "memory_set": [
+            "book271.png"
+        ],
+        "target_object": "TBD",
+        "max_fixations": 41
+    },
+    "cmp_shelves_040_book_013.jpg": {
+        "subject": "nnIBS Model",
+        "dataset": "HSUBANOTT",
+        "image_height": 24,
+        "image_width": 32,
+        "receptive_height": 1,
+        "receptive_width": 1,
+        "target_found": true,
+        "target_bbox": [
+            9,
+            3,
+            10,
+            5
+        ],
+        "X": [
+            16,
+            17,
+            20,
+            11,
+            13,
+            12,
+            24,
+            19,
+            25,
+            13,
+            20,
+            6,
+            4
+        ],
+        "Y": [
+            12,
+            9,
+            13,
+            13,
+            9,
+            5,
+            10,
+            6,
+            15,
+            17,
+            20,
+            10,
+            10
+        ],
+        "elm_info_gained": [
+            0.435338885333261,
+            0.22742705264999133,
+            0.18378973664165582,
+            0.1347757921310054,
+            0.11949322489749997,
+            0.09257053612062845,
+            0.0826033671694078,
+            0.07797563725275557,
+            0.07513873942280333,
+            0.07414802509063168,
+            0.07113072493632495,
+            0.16840509192321804,
+            0.8965147701278987
+        ],
+        "searched_object_indexes": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "memory_set": [
+            "book879.png"
+        ],
+        "target_object": "TBD",
+        "max_fixations": 41
+    },
+    "cmp_shelves_046_toys_005.jpg": {
+        "subject": "nnIBS Model",
+        "dataset": "HSUBANOTT",
+        "image_height": 24,
+        "image_width": 32,
+        "receptive_height": 1,
+        "receptive_width": 1,
+        "target_found": true,
+        "target_bbox": [
+            3,
+            9,
+            4,
+            10
+        ],
+        "X": [
+            16,
+            18,
+            9,
+            16,
+            10
+        ],
+        "Y": [
+            12,
+            8,
+            11,
+            16,
+            4
+        ],
+        "elm_info_gained": [
+            0.27659269784241514,
+            0.22093369335976587,
+            0.14445862921014802,
+            0.12384034582636558,
+            2.65601232497455
+        ],
+        "searched_object_indexes": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "memory_set": [
+            "motorcycle551.png"
+        ],
+        "target_object": "TBD",
+        "max_fixations": 41
+    },
+    "cmp_shelves_054_toys_013.jpg": {
+        "subject": "nnIBS Model",
+        "dataset": "HSUBANOTT",
+        "image_height": 24,
+        "image_width": 32,
+        "receptive_height": 1,
+        "receptive_width": 1,
+        "target_found": true,
+        "target_bbox": [
+            7,
+            25,
+            8,
+            26
+        ],
+        "X": [
+            16,
+            11,
+            19,
+            10,
+            25
+        ],
+        "Y": [
+            12,
+            13,
+            10,
+            8,
+            8
+        ],
+        "elm_info_gained": [
+            0.45065449983119954,
+            0.33308526611686423,
+            0.21082831401559868,
+            0.17800429609825985,
+            1.465098558567604
+        ],
+        "searched_object_indexes": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "memory_set": [
+            "truck319.png"
+        ],
+        "target_object": "TBD",
+        "max_fixations": 41
+    },
+    "cmp_shelves_059_toys_018.jpg": {
+        "subject": "nnIBS Model",
+        "dataset": "HSUBANOTT",
+        "image_height": 24,
+        "image_width": 32,
+        "receptive_height": 1,
+        "receptive_width": 1,
+        "target_found": true,
+        "target_bbox": [
+            1,
+            14,
+            3,
+            16
+        ],
+        "X": [
+            16,
+            12,
+            19,
+            18,
+            24,
+            7,
+            15,
+            15
+        ],
+        "Y": [
+            12,
+            9,
+            11,
+            18,
+            11,
+            9,
+            5,
+            3
+        ],
+        "elm_info_gained": [
+            0.3580446424051642,
+            0.2536918706769694,
+            0.1705855086334432,
+            0.1404339018878131,
+            0.11879837568973825,
+            0.10405106412545809,
+            0.8589623269359075,
+            3.546114838612532
+        ],
+        "searched_object_indexes": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "memory_set": [
+            "truck196.png"
+        ],
+        "target_object": "TBD",
+        "max_fixations": 41
+    },
+    "cmp_shelves_075_toys_034.jpg": {
+        "subject": "nnIBS Model",
+        "dataset": "HSUBANOTT",
+        "image_height": 24,
+        "image_width": 32,
+        "receptive_height": 1,
+        "receptive_width": 1,
+        "target_found": true,
+        "target_bbox": [
+            6,
+            19,
+            7,
+            21
+        ],
+        "X": [
+            16,
+            10,
+            21,
+            20,
+            16,
+            10,
+            6,
+            25,
+            25,
+            23,
+            21,
+            17,
+            18,
+            4,
+            3,
+            10,
+            15,
+            11,
+            23,
+            28,
+            20
+        ],
+        "Y": [
+            12,
+            11,
+            11,
+            16,
+            17,
+            16,
+            6,
+            17,
+            21,
+            12,
+            17,
+            17,
+            8,
+            16,
+            21,
+            12,
+            3,
+            2,
+            3,
+            6,
+            6
+        ],
+        "elm_info_gained": [
+            0.24232846137715616,
+            0.29504278019202634,
+            0.16723227747985883,
+            0.19391107827843465,
+            0.10344957432019172,
+            0.09121777098967715,
+            0.08254251634537535,
+            0.0857755637969597,
+            0.07795082773757725,
+            0.08220013362006967,
+            0.3900053533175655,
+            0.07157732982952737,
+            0.06688112555499147,
+            0.07286644431028236,
+            0.06825652977332747,
+            0.06710782701319645,
+            0.0737663686819071,
+            0.06967419572744307,
+            0.0772891425897588,
+            0.07005861631635164,
+            0.10366520095722383
+        ],
+        "searched_object_indexes": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "memory_set": [
+            "airplane1062.png"
+        ],
+        "target_object": "TBD",
+        "max_fixations": 41
+    },
+    "cmp_shelves_081_knife_004.jpg": {
+        "subject": "nnIBS Model",
+        "dataset": "HSUBANOTT",
+        "image_height": 24,
+        "image_width": 32,
+        "receptive_height": 1,
+        "receptive_width": 1,
+        "target_found": true,
+        "target_bbox": [
+            7,
+            22,
+            7,
+            24
+        ],
+        "X": [
+            16,
+            15,
+            9,
+            21,
+            22,
+            15,
+            9,
+            22
+        ],
+        "Y": [
+            12,
+            8,
+            9,
+            11,
+            15,
+            15,
+            17,
+            7
+        ],
+        "elm_info_gained": [
+            0.20182895721924188,
+            0.16729685420359094,
+            0.12875407172929754,
+            0.10358106953464276,
+            0.17348454017626733,
+            0.1010588183548132,
+            0.0822571756653692,
+            0.28416304193040065
+        ],
+        "searched_object_indexes": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "memory_set": [
+            "knife77.png"
+        ],
+        "target_object": "TBD",
+        "max_fixations": 41
+    },
+    "cmp_shelves_089_vase_008.jpg": {
+        "subject": "nnIBS Model",
+        "dataset": "HSUBANOTT",
+        "image_height": 24,
+        "image_width": 32,
+        "receptive_height": 1,
+        "receptive_width": 1,
+        "target_found": true,
+        "target_bbox": [
+            21,
+            12,
+            23,
+            13
+        ],
+        "X": [
+            16,
+            9,
+            20,
+            22,
+            20,
+            11,
+            6,
+            26,
+            22,
+            20,
+            28,
+            16,
+            10,
+            12
+        ],
+        "Y": [
+            12,
+            14,
+            15,
+            15,
+            6,
+            10,
+            6,
+            14,
+            16,
+            15,
+            9,
+            3,
+            16,
+            21
+        ],
+        "elm_info_gained": [
+            0.22057796359314535,
+            0.2131180007336838,
+            0.2790449269703343,
+            0.11863451254938648,
+            0.10409279226449744,
+            0.0899109773489826,
+            0.08297701613992153,
+            0.10777868409170228,
+            0.08701460181159396,
+            0.07368765452582052,
+            0.07157441531995333,
+            0.06931409587830666,
+            0.08143070244134668,
+            2.2810927156633816
+        ],
+        "searched_object_indexes": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "memory_set": [
+            "vase1198.png"
+        ],
+        "target_object": "TBD",
+        "max_fixations": 41
+    },
+    "cmp_shelves_096_teddybear_009.jpg": {
+        "subject": "nnIBS Model",
+        "dataset": "HSUBANOTT",
+        "image_height": 24,
+        "image_width": 32,
+        "receptive_height": 1,
+        "receptive_width": 1,
+        "target_found": true,
+        "target_bbox": [
+            7,
+            5,
+            9,
+            7
+        ],
+        "X": [
+            16,
+            7,
+            17,
+            7
+        ],
+        "Y": [
+            12,
+            16,
+            16,
+            8
+        ],
+        "elm_info_gained": [
+            0.23545179444609232,
+            0.1930311366337421,
+            0.15020224179663091,
+            0.37513221047678497
+        ],
+        "searched_object_indexes": [
+            0,
+            0,
+            0
+        ],
+        "memory_set": [
+            "teddy bear34.png"
+        ],
+        "target_object": "TBD",
+        "max_fixations": 41
+    },
+    "cmp_shelves_103_teddybear_016.jpg": {
+        "subject": "nnIBS Model",
+        "dataset": "HSUBANOTT",
+        "image_height": 24,
+        "image_width": 32,
+        "receptive_height": 1,
+        "receptive_width": 1,
+        "target_found": true,
+        "target_bbox": [
+            9,
+            10,
+            11,
+            12
+        ],
+        "X": [
+            16,
+            11
+        ],
+        "Y": [
+            12,
+            10
+        ],
+        "elm_info_gained": [
+            0.2630387063113904,
+            1.6730089829401238
+        ],
+        "searched_object_indexes": [
+            0
+        ],
+        "memory_set": [
+            "teddy bear1654.png"
+        ],
+        "target_object": "TBD",
+        "max_fixations": 41
+    },
+    "cmp_shelves_108_teddybear_021.jpg": {
+        "subject": "nnIBS Model",
+        "dataset": "HSUBANOTT",
+        "image_height": 24,
+        "image_width": 32,
+        "receptive_height": 1,
+        "receptive_width": 1,
+        "target_found": true,
+        "target_bbox": [
+            18,
+            10,
+            20,
+            11
+        ],
+        "X": [
+            16,
+            9,
+            11,
+            11
+        ],
+        "Y": [
+            12,
+            10,
+            13,
+            18
+        ],
+        "elm_info_gained": [
+            0.38693094785141147,
+            0.20460979879223665,
+            0.14236532953941256,
+            0.9427212804450086
+        ],
+        "searched_object_indexes": [
+            0,
+            0,
+            0
+        ],
+        "memory_set": [
+            "teddy bear1557.png"
+        ],
+        "target_object": "TBD",
+        "max_fixations": 41
+    },
+    "cmp_shelves_109_teddybear_022.jpg": {
+        "subject": "nnIBS Model",
+        "dataset": "HSUBANOTT",
+        "image_height": 24,
+        "image_width": 32,
+        "receptive_height": 1,
+        "receptive_width": 1,
+        "target_found": true,
+        "target_bbox": [
+            4,
+            24,
+            6,
+            26
+        ],
+        "X": [
+            16,
+            12,
+            22,
+            11,
+            18,
+            22,
+            25
+        ],
+        "Y": [
+            12,
+            11,
+            11,
+            15,
+            9,
+            3,
+            5
+        ],
+        "elm_info_gained": [
+            0.4032916433758331,
+            0.3108542418769076,
+            0.1879660877858823,
+            0.11251317609580837,
+            0.11518608228879379,
+            0.1294742570013728,
+            1.9645329630470016
+        ],
+        "searched_object_indexes": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "memory_set": [
+            "teddy bear838.png"
+        ],
+        "target_object": "TBD",
+        "max_fixations": 41
+    },
+    "cmp_shelves_111_pottedplant_002.jpg": {
+        "subject": "nnIBS Model",
+        "dataset": "HSUBANOTT",
+        "image_height": 24,
+        "image_width": 32,
+        "receptive_height": 1,
+        "receptive_width": 1,
+        "target_found": true,
+        "target_bbox": [
+            19,
+            3,
+            21,
+            5
+        ],
+        "X": [
+            16,
+            20,
+            20,
+            9,
+            22,
+            10,
+            5
+        ],
+        "Y": [
+            12,
+            12,
+            12,
+            12,
+            13,
+            17,
+            19
+        ],
+        "elm_info_gained": [
+            0.38468623469173613,
+            0.3033429390404921,
+            0.17524510749414135,
+            0.14381324011797533,
+            0.13290082387689994,
+            0.2727037377987283,
+            2.8988553658171043
+        ],
+        "searched_object_indexes": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "memory_set": [
+            "potted plant455.png"
+        ],
+        "target_object": "TBD",
+        "max_fixations": 41
+    },
+    "cmp_sky_001_kite_001.jpg": {
+        "subject": "nnIBS Model",
+        "dataset": "HSUBANOTT",
+        "image_height": 24,
+        "image_width": 32,
+        "receptive_height": 1,
+        "receptive_width": 1,
+        "target_found": true,
+        "target_bbox": [
+            1,
+            4,
+            2,
+            6
+        ],
+        "X": [
+            16,
+            21,
+            27,
+            21,
+            16,
+            8,
+            5,
+            5
+        ],
+        "Y": [
+            12,
+            16,
+            15,
+            6,
+            15,
+            7,
+            3,
+            2
+        ],
+        "elm_info_gained": [
+            0.27679602502093725,
+            0.17464787818292743,
+            0.14211310925996629,
+            0.11469207493327588,
+            0.09826136731513815,
+            0.12361073280329628,
+            2.683813513378167,
+            3.3145143892659674
+        ],
+        "searched_object_indexes": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "memory_set": [
+            "stm_sky_001_kite_001_016.png"
+        ],
+        "target_object": "TBD",
+        "max_fixations": 41
+    },
+    "cmp_snow_001_person_001.jpg": {
+        "subject": "nnIBS Model",
+        "dataset": "HSUBANOTT",
+        "image_height": 24,
+        "image_width": 32,
+        "receptive_height": 1,
+        "receptive_width": 1,
+        "target_found": true,
+        "target_bbox": [
+            9,
+            2,
+            11,
+            4
+        ],
+        "X": [
+            16,
+            12,
+            15,
+            23,
+            19,
+            22,
+            16,
+            11,
+            19,
+            26,
+            28,
+            4
+        ],
+        "Y": [
+            12,
+            15,
+            10,
+            11,
+            4,
+            8,
+            9,
+            4,
+            3,
+            5,
+            3,
+            10
+        ],
+        "elm_info_gained": [
+            0.42937742116415606,
+            0.35858102835035455,
+            0.1609614063995691,
+            0.15429434521823363,
+            0.12971375887090766,
+            0.14430894069071168,
+            0.09883074583561353,
+            0.09000208738640209,
+            0.09407306671986163,
+            0.2265583628520979,
+            0.07314069137458472,
+            3.5549188271408827
+        ],
+        "searched_object_indexes": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "memory_set": [
+            "person10154.png"
+        ],
+        "target_object": "TBD",
+        "max_fixations": 41
+    },
+    "cmp_yard_005_animal_003.jpg": {
+        "subject": "nnIBS Model",
+        "dataset": "HSUBANOTT",
+        "image_height": 24,
+        "image_width": 32,
+        "receptive_height": 1,
+        "receptive_width": 1,
+        "target_found": true,
+        "target_bbox": [
+            1,
+            8,
+            3,
+            9
+        ],
+        "X": [
+            16,
+            11,
+            16,
+            12,
+            21,
+            26,
+            6,
+            20,
+            25,
+            15,
+            14,
+            9
+        ],
+        "Y": [
+            12,
+            9,
+            5,
+            14,
+            8,
+            14,
+            12,
+            15,
+            20,
+            10,
+            19,
+            3
+        ],
+        "elm_info_gained": [
+            0.5872693069853091,
+            0.25360015368580296,
+            0.2000311486759308,
+            0.15342711407846826,
+            0.11662582298924298,
+            0.10169040377337349,
+            0.09066010487423286,
+            0.10159518092295204,
+            0.08001111661839487,
+            0.07620577541742382,
+            0.07387322772282039,
+            0.9507833560226467
+        ],
+        "searched_object_indexes": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "memory_set": [
+            "cat1855.png"
+        ],
+        "target_object": "TBD",
+        "max_fixations": 41
+    }
+}

@@ -1,0 +1,11 @@
+{
+
+    "exclude": [
+      "**/images",
+      "**/__pycache__",
+      "**/probability_maps",
+      "**/targets",
+    ]
+  
+
+  }
